@@ -10,4 +10,5 @@ The best place for this chip to be placed is instead of burned water level senso
 On ATTiny85 use GND, 5V and P2 for TX
 
 ATTiny85 https://s.click.aliexpress.com/e/_dTkNoDh
+
 Video demonstration https://www.youtube.com/watch?v=Pm4rbp3xFk0
